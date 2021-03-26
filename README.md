@@ -1,5 +1,8 @@
 # Brad Geesaman's CV/Résumé
 
+* [Online Viewing](https://bgeesaman.github.io)
+* [Download the PDF](https://github.com/bgeesaman/bgeesaman.github.io/raw/main/BradGeesaman_CV.pdf)
+
 ### Format heavily borrowed from the following authors
 
 Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[GitHub](http://github.com/elipapa)/[website](https://elipapa.github.io)).
