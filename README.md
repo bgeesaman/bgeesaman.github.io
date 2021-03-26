@@ -3,16 +3,13 @@
 * [Online Viewing](https://bgeesaman.github.io)
 * [Download the PDF](https://github.com/bgeesaman/bgeesaman.github.io/raw/main/BradGeesaman_CV.pdf)
 
-### Format heavily borrowed from the following authors
+**Credits**
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[GitHub](http://github.com/elipapa)/[website](https://elipapa.github.io)).
+The idea and styling for this resume repository was made possible by:
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+* Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[GitHub](http://github.com/elipapa)/[website](https://elipapa.github.io)).  For more details see the [project page](http://elipapa.github.io/markdown-cv).
+* Styling heavily borrowed from [Dave Whipp](https://github.com/davewhipp/markdown-cv/)
 
-For more details see the [project page](http://elipapa.github.io/markdown-cv) or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
-
-Styling heavily borrowed from [Dave Whipp](https://github.com/davewhipp/markdown-cv/)
-
-### License
+**License**
 
 [MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
