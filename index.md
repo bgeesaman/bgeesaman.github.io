@@ -41,7 +41,7 @@ Motivated cloud-native Information Security Professional with expertise in a wid
 `2018-2019`
 ### **Independent Security Consultant**, *Bradley Geesaman Consulting*
 * Delivered practical security guidance, expertise, implementation assistance, and security training to several clients deploying mission-critical workloads inside Kubernetes on Baremetal, AWS, and GKE.
-* Designed, developed, and automated the cluster and deployment pipelines of a multi-team AWS/Kubernetes-based platform capable of performing security analytics at 60K logs/sec into ElasticSearch.
+* Designed, developed, and automated the cluster and deployment pipelines of a multi-team AWS/Kubernetes-based platform performing security analytics at 60K logs/sec into ElasticSearch.
 
 `2015-2017`
 ### **Senior Manager**, *Symantec Corporation*
@@ -121,6 +121,8 @@ satisfaction.
 [CVE-2020-15157 "ContainerDrip" Write-up](https://darkbit.io/blog/cve-2020-15157-containerdrip)
 
 [Falco Default Rule Bypass](https://darkbit.io/blog/falco-rule-bypass)
+
+[Container Registry Search Order/Registry Name Squatting](https://www.redhat.com/en/blog/be-careful-when-pulling-images-short-name)
 
 `2019`
 [CVE-2019-11253 Kubernetes DoS Writeup](https://gist.github.com/bgeesaman/0e0349e94cd22c48bf14d8a9b7d6b8f2)
