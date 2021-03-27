@@ -118,7 +118,7 @@ satisfaction.
 ## Vuln Research
 
 `2020`
-[CVE-2020-15157 "ContainerDrip" Write-up](https://darkbit.io/blog/cve-2020-15157-containerdrip)
+[CVE-2020-15157 "ContainerDrip" Write-up](https://darkbit.io/blog/cve-2020-15157-containerdrip) and [Google 2020 VRP Prize Winner](https://security.googleblog.com/2021/03/announcing-winners-of-2020-gcp-vrp-prize.html)
 
 [Falco Default Rule Bypass](https://darkbit.io/blog/falco-rule-bypass)
 
