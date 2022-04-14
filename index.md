@@ -23,12 +23,12 @@ Motivated cloud-native Information Security Professional with expertise in a wid
 
 ## Experience
 `2021-present`
-### **Advisory Board Member**, *Darkbit.io*
-* Provide technical and strategic guidance in support of Darkbit's ongoing development of world-class cloud security posture management tools and service offerings.
+### **Director of Cloud Security**, *Aqua Security*
+* Technical lead working to design, prototype, and build new and improved product and SaaS service capabilities within the cloud and container security space across AWS, Azure, and Google Cloud.
 
 `2019-2021`
 ### **Co-founder, Chief Architect**, *Darkbit.io*
-* Provided expert technical and strategic guidance to cloud-native organizations by assessing the security posture of their AWS, GCP, and Kubernetes environments via point-in-time and continuous security configuration assessments.
+* Provided expert technical and strategic guidance to cloud-native organizations by assessing the security posture of their AWS, Google Cloud, and Kubernetes environments via point-in-time and continuous security configuration assessments.
 * Co-developed and open-sourced [OpenCSPM](https://github.com/OpenCSPM/opencspm), a graph-database engine for efficiently assessing the security posture of AWS, Google Cloud, and Kubernetes resources.
 * Developed and tested exam challenges for the Certified Kubernetes Security (CKS) certification.
 
