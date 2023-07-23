@@ -22,7 +22,11 @@ title: Brad Geesaman's CV
 Motivated cloud-native Information Security Professional with expertise in a wide range of cloud platform and Kubernetes security technologies and a track record of producing extraordinary results. Looking for opportunities to make the secure path the easier path for your clients and the community.
 
 ## Experience
-`2021-present`
+`2022-present`
+### **Staff Security Engineer**, *Ghost Security*
+* Building a modern cloud and application security platform on GCP using serverless technologies.
+
+`2021-2022`
 ### **Director of Cloud Security**, *Aqua Security*
 * Technical lead working to design, prototype, and build new and improved product and SaaS service capabilities within the cloud and container security space across AWS, Azure, and Google Cloud.
 
@@ -33,9 +37,9 @@ Motivated cloud-native Information Security Professional with expertise in a wid
 * Developed and tested exam challenges for the Certified Kubernetes Security (CKS) certification.
 
 `2018-2019`
-### **Professional Services Consultant (Contractor/TVC)**, *Google Cloud*
+### **Professional Services Consultant (Contractor/TVC)**, *Google Cloud (PSO)*
 * Engaged with multiple clients migrating to Google Cloud and Google Kubernetes Engine (GKE). Performed security configuration reviews with strategic security guidance to client management.
-* Delivered multiple internal GKE Security educational assets and training sessions used by the greater partner ecosystem.
+* Delivered multiple internal GKE/Security educational assets and training sessions used by the greater Google Cloud Partner ecosystem.
 * One of the first 20 to qualify for the Google Cloud Certified Fellow Program.
 
 `2018-2019`
@@ -89,6 +93,15 @@ satisfaction.
 
 ## Speaking
 
+`KubeCon EU 2023`
+[Malicious Compliance: Reflections on Trusting Container Scanners](https://youtu.be/9weGi0csBZM)
+
+`KubeCon NA 2021`
+[Exploiting a Slightly Peculiar Volume Configuration with SIG-Honk](https://youtu.be/V8JXexaLGCU)
+
+`KubeCon NA 2021`
+[Kubernetes Exposed! Seven of Nine Hidden Secrets That Will Give You Pause](https://youtu.be/JBbVTmrZ45E)
+
 `KubeCon NA 2020`
 [Keynote Panel: Hacking and Hardening in the Cloud Native Garden](https://youtu.be/CAZ5s0zli6g)<br />
 
@@ -106,14 +119,6 @@ satisfaction.
 
 `KubeCon NA 2017`
 [Hacking and Hardening Kubernetes Clusters By Example](https://youtu.be/vTgQLzeBfRU)<br />
-
-## Blog Posts
-
-`2021`
-[Google Cloud IAM Custom Role and Permissions Debugging Tricks](https://darkbit.io/blog/google-cloud-custom-iam-role-debugging-tricks)
-
-`2020`
-[Why You Should Enable GKE Shielded Nodes Today](https://darkbit.io/blog/gke-shielded-nodes)
 
 ## Vuln Research
 
