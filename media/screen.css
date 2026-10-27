@@ -157,6 +157,11 @@ a:hover {
         font-size: 87%;
 }
 
+#webaddress .sep {
+	font-size: 87%;
+	opacity: 0.5;
+}
+
 em {
 	font-style: italic;
 }
